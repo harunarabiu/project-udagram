@@ -1,0 +1,18 @@
+[
+    {
+          "ParameterKey": "EnvironmentName",
+          "ParameterValue": "UdacityALXHMAXProject2"
+    },
+    {
+		"ParameterKey": "S3BucketName",
+		"ParameterValue": "udacityalx-cloud-devops-project-2"
+	},
+    {
+		"ParameterKey": "InstanceTypeName",
+		"ParameterValue": "t2.medium"
+	},
+    {
+		"ParameterKey": "InstanceVolumeSize",
+		"ParameterValue": "10"
+	}
+]
